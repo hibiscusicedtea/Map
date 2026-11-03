@@ -1,0 +1,1529 @@
+{
+  "type": "FeatureCollection",
+  "name": "Downtown Toronto and Harbourfront Parks and Recreation Amenities",
+  "description": "Filtered from the City of Toronto Parks and Recreation Facilities GeoJSON supplied by the user. The focus area is an approximate rectangular study window, not an official neighbourhood boundary.",
+  "study_area": {
+    "west_longitude": -79.41,
+    "east_longitude": -79.35,
+    "south_latitude": 43.63,
+    "north_latitude": 43.655,
+    "bounds_note": "Approximate window from the Bathurst Street area east toward Sherbourne Street, north of the waterfront to just north of Queen Street; Toronto Islands excluded."
+  },
+  "source": "City of Toronto Open Data: Parks and Recreation Facilities",
+  "source_url": "https://open.toronto.ca/dataset/parks-and-recreation-facilities/",
+  "method": "One Point feature per unique LOCATIONID. Only location ID, name, facility type, listed amenities, and amenity count are retained. Amenities are split from the source comma-separated field; None is represented as an empty array.",
+  "feature_count": 82,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3689450613581,
+          43.6443162145864
+        ]
+      },
+      "properties": {
+        "location_id": "3737",
+        "name": "120 QUEENS QUAY E PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3630102989288,
+          43.654282873638
+        ]
+      },
+      "properties": {
+        "location_id": "3827",
+        "name": "40 POWER ST PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3754141162697,
+          43.654513331424
+        ]
+      },
+      "properties": {
+        "location_id": "3715",
+        "name": "45 DALHOUSIE ST PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3724974412338,
+          43.6432446311398
+        ]
+      },
+      "properties": {
+        "location_id": "3868",
+        "name": "50 QUEENS QUAY EAST PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area",
+          "Outdoor Dry Pad",
+          "Pickleball Court"
+        ],
+        "amenity_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4018051802759,
+          43.6450009615612
+        ]
+      },
+      "properties": {
+        "location_id": "3705",
+        "name": "ADELAIDE PLACE PARKETTE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3625431783761,
+          43.6450859282695
+        ]
+      },
+      "properties": {
+        "location_id": "3660",
+        "name": "AITKEN PLACE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area",
+          "Playground"
+        ],
+        "amenity_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4042555012948,
+          43.6506653755471
+        ]
+      },
+      "properties": {
+        "location_id": "31",
+        "name": "ALEXANDRA PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Basketball Court",
+          "Outdoor Dry Pad",
+          "Pickleball Court",
+          "Picnic Site",
+          "Playground",
+          "Skateboarding",
+          "Washroom"
+        ],
+        "amenity_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3976994296813,
+          43.6335438634905
+        ]
+      },
+      "properties": {
+        "location_id": "2120",
+        "name": "BATHURST QUAY",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3964490027904,
+          43.6346634822841
+        ]
+      },
+      "properties": {
+        "location_id": "3847",
+        "name": "BATHURST QUAY COMMON",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4023274975012,
+          43.653508875721
+        ]
+      },
+      "properties": {
+        "location_id": "263",
+        "name": "BELLEVUE SQUARE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Outdoor Fitness Equipment",
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.375234190496,
+          43.6480528779511
+        ]
+      },
+      "properties": {
+        "location_id": "277",
+        "name": "BERCZY PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3556437988402,
+          43.6434987638808
+        ]
+      },
+      "properties": {
+        "location_id": "3853",
+        "name": "BIIDAASIGE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area",
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3872459451228,
+          43.6415847668896
+        ]
+      },
+      "properties": {
+        "location_id": "364",
+        "name": "BOBBIE ROSENFELD PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.396323630107,
+          43.6389753006818
+        ]
+      },
+      "properties": {
+        "location_id": "2708",
+        "name": "CANOE LANDING",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area",
+          "Sports Field"
+        ],
+        "amenity_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.394731493621,
+          43.6394377946956
+        ]
+      },
+      "properties": {
+        "location_id": "3643",
+        "name": "CANOE LANDING COMMUNITY RECREATION CENTRE",
+        "facility_type": "Community Centre",
+        "amenities": [
+          "Basketball Court",
+          "Outdoor Track",
+          "Playground",
+          "Sports Field",
+          "Wi-Fi"
+        ],
+        "amenity_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3936607240882,
+          43.6441538927643
+        ]
+      },
+      "properties": {
+        "location_id": "204",
+        "name": "CLARENCE SQUARE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3797165089155,
+          43.6511843140751
+        ]
+      },
+      "properties": {
+        "location_id": "368",
+        "name": "CLOUD GARDENS",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3524612223528,
+          43.654418402689
+        ]
+      },
+      "properties": {
+        "location_id": "3499",
+        "name": "CORKTOWN COMMON",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground",
+          "Sports Field",
+          "Washroom"
+        ],
+        "amenity_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4054199944684,
+          43.6342514587092
+        ]
+      },
+      "properties": {
+        "location_id": "467",
+        "name": "CORONATION PARK - TORONTO",
+        "facility_type": "Park",
+        "amenities": [
+          "Ball Diamond",
+          "Dog Off-Leash Area",
+          "Picnic Site",
+          "Washroom"
+        ],
+        "amenity_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3754637853063,
+          43.6504672936036
+        ]
+      },
+      "properties": {
+        "location_id": "232",
+        "name": "COURTHOUSE SQUARE PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3673390336933,
+          43.6487685171545
+        ]
+      },
+      "properties": {
+        "location_id": "338",
+        "name": "DAVID CROMBIE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Ball Diamond",
+          "Basketball Court",
+          "Dog Off-Leash Area",
+          "Playground"
+        ],
+        "amenity_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3880527039295,
+          43.6462319593113
+        ]
+      },
+      "properties": {
+        "location_id": "2407",
+        "name": "DAVID PECAUT SQUARE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3551583522763,
+          43.6534153024494
+        ]
+      },
+      "properties": {
+        "location_id": "3584",
+        "name": "DIAMOND JUBILEE PROMENADE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3976375933058,
+          43.6424625916446
+        ]
+      },
+      "properties": {
+        "location_id": "3773",
+        "name": "DRAPER PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3610418680159,
+          43.6460042059937
+        ]
+      },
+      "properties": {
+        "location_id": "3857",
+        "name": "EAST BAYFRONT COMMUNITY RECREATION CENTRE",
+        "facility_type": "Community Centre",
+        "amenities": [
+          "Wi-Fi"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.391332652767,
+          43.654511416182
+        ]
+      },
+      "properties": {
+        "location_id": "3884",
+        "name": "GALLERY PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.407105706175,
+          43.6384614375107
+        ]
+      },
+      "properties": {
+        "location_id": "399",
+        "name": "GARRISON COMMON",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3922149631286,
+          43.652445846292
+        ]
+      },
+      "properties": {
+        "location_id": "1431",
+        "name": "GRANGE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area",
+          "Picnic Site",
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3912755084545,
+          43.647511382602
+        ]
+      },
+      "properties": {
+        "location_id": "3546",
+        "name": "GRASETT PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3761886384267,
+          43.6402429497281
+        ]
+      },
+      "properties": {
+        "location_id": "74",
+        "name": "HARBOUR SQUARE PARK LANDS",
+        "facility_type": "Park",
+        "amenities": [
+          "Washroom"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3908365231734,
+          43.6510882586156
+        ]
+      },
+      "properties": {
+        "location_id": "45",
+        "name": "HARRISON POOL",
+        "facility_type": "Community Centre",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3881724413573,
+          43.6378080329241
+        ]
+      },
+      "properties": {
+        "location_id": "1663",
+        "name": "HTO PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Beach"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3902225629547,
+          43.6374682825923
+        ]
+      },
+      "properties": {
+        "location_id": "2542",
+        "name": "HTO PARK WEST",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.395913468824,
+          43.6346455962573
+        ]
+      },
+      "properties": {
+        "location_id": "1075",
+        "name": "IRELAND PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3888117730631,
+          43.64346639034
+        ]
+      },
+      "properties": {
+        "location_id": "99",
+        "name": "ISABELLA VALANCY CRAWFORD PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3552397595627,
+          43.6410446857836
+        ]
+      },
+      "properties": {
+        "location_id": "301",
+        "name": "JENNIFER KATERYNA KOVAL'S'KYJ PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4039705836451,
+          43.6366157961616
+        ]
+      },
+      "properties": {
+        "location_id": "2825",
+        "name": "JUNE CALLWOOD PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383661904441,
+          43.6543992712825
+        ]
+      },
+      "properties": {
+        "location_id": "377",
+        "name": "LARRY SEFTON PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3541864540851,
+          43.6549563498529
+        ]
+      },
+      "properties": {
+        "location_id": "3612",
+        "name": "LAWREN HARRIS SQUARE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3984131999893,
+          43.6344839206963
+        ]
+      },
+      "properties": {
+        "location_id": "128",
+        "name": "LITTLE NORWAY PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Ball Diamond",
+          "Outdoor Fitness Equipment",
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3621321278792,
+          43.6529734889692
+        ]
+      },
+      "properties": {
+        "location_id": "1468",
+        "name": "LITTLE TRINITY CHURCH LANDS",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3798155002312,
+          43.6406938196058
+        ]
+      },
+      "properties": {
+        "location_id": "3799",
+        "name": "LOVE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3724104650962,
+          43.649751099758
+        ]
+      },
+      "properties": {
+        "location_id": "40",
+        "name": "MARKET LANE PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839163417895,
+          43.6528257419807
+        ]
+      },
+      "properties": {
+        "location_id": "1089",
+        "name": "NATHAN PHILLIPS SQUARE",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3947012998174,
+          43.6412411836557
+        ]
+      },
+      "properties": {
+        "location_id": "381",
+        "name": "NORTHERN LINEAR PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3849326193171,
+          43.6427582841858
+        ]
+      },
+      "properties": {
+        "location_id": "383",
+        "name": "OLYMPIC PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3739985252733,
+          43.6437949740879
+        ]
+      },
+      "properties": {
+        "location_id": "3732",
+        "name": "ONE YONGE COMMUNITY RECREATION CENTRE",
+        "facility_type": "Community Centre",
+        "amenities": [
+          "Wi-Fi"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4079630866501,
+          43.6395047697051
+        ]
+      },
+      "properties": {
+        "location_id": "3774",
+        "name": "ORDNANCE PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3618914753787,
+          43.6547967018755
+        ]
+      },
+      "properties": {
+        "location_id": "3641",
+        "name": "ORPHAN'S GREEN",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3627661947663,
+          43.650014659321
+        ]
+      },
+      "properties": {
+        "location_id": "442",
+        "name": "PARLIAMENT SQUARE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Sports Field"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3893766944125,
+          43.6383857879936
+        ]
+      },
+      "properties": {
+        "location_id": "2544",
+        "name": "PETER STREET BASIN PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3721112691589,
+          43.6410316082211
+        ]
+      },
+      "properties": {
+        "location_id": "3731",
+        "name": "PIER 27 PROMENADE PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4011300190912,
+          43.6464785032605
+        ]
+      },
+      "properties": {
+        "location_id": "3867",
+        "name": "PORTLAND STREET PARKETTE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3660133150147,
+          43.648202063451
+        ]
+      },
+      "properties": {
+        "location_id": "1095",
+        "name": "PRINCESS STREET PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4008462036923,
+          43.6498107694948
+        ]
+      },
+      "properties": {
+        "location_id": "150",
+        "name": "RANDY PADMORE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3846391387197,
+          43.6395541289984
+        ]
+      },
+      "properties": {
+        "location_id": "2545",
+        "name": "REES STREET PARKETTE",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3853958821948,
+          43.6410757356875
+        ]
+      },
+      "properties": {
+        "location_id": "386",
+        "name": "ROUNDHOUSE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3606680619286,
+          43.654606962967
+        ]
+      },
+      "properties": {
+        "location_id": "148",
+        "name": "SACKVILLE PLAYGROUND",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4049504110461,
+          43.6518252765297
+        ]
+      },
+      "properties": {
+        "location_id": "1098",
+        "name": "SCADDING COURT COMMUNITY CENTRE",
+        "facility_type": "Community Centre",
+        "amenities": [
+          "Wi-Fi"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3649477531678,
+          43.6448847872863
+        ]
+      },
+      "properties": {
+        "location_id": "1860",
+        "name": "SHERBOURNE COMMON",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3868440327855,
+          43.6447416909588
+        ]
+      },
+      "properties": {
+        "location_id": "389",
+        "name": "SIMCOE PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4090022824434,
+          43.6407319942449
+        ]
+      },
+      "properties": {
+        "location_id": "3663",
+        "name": "SOUTH STANLEY PARK EXTENSION",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3911442880518,
+          43.6393817410865
+        ]
+      },
+      "properties": {
+        "location_id": "2423",
+        "name": "SOUTHERN LINEAR PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3922571734136,
+          43.6371955231427
+        ]
+      },
+      "properties": {
+        "location_id": "390",
+        "name": "SPADINA QUAY WETLANDS",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3989994798341,
+          43.6464092295037
+        ]
+      },
+      "properties": {
+        "location_id": "183",
+        "name": "ST. ANDREW'S PLAYGROUND",
+        "facility_type": "Park",
+        "amenities": [
+          "Dog Off-Leash Area",
+          "Playground"
+        ],
+        "amenity_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3729695242138,
+          43.6509190187712
+        ]
+      },
+      "properties": {
+        "location_id": "408",
+        "name": "ST. JAMES PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3649478648238,
+          43.6497591165374
+        ]
+      },
+      "properties": {
+        "location_id": "272",
+        "name": "ST. LAWRENCE COMMUNITY RECREATION CENTRE",
+        "facility_type": "Community Centre",
+        "amenities": [
+          "Wi-Fi"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3698902194308,
+          43.6478693506475
+        ]
+      },
+      "properties": {
+        "location_id": "3830",
+        "name": "ST. MICHAEL CATHOLIC SCHOOL",
+        "facility_type": "Community Centre",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3906531989819,
+          43.6506929777232
+        ]
+      },
+      "properties": {
+        "location_id": "205",
+        "name": "ST. PATRICKS SQUARE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3996190509894,
+          43.6329369363629
+        ]
+      },
+      "properties": {
+        "location_id": "2619",
+        "name": "STADIUM ROAD PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Outdoor Fitness Equipment"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4098430479658,
+          43.6431324087499
+        ]
+      },
+      "properties": {
+        "location_id": "212",
+        "name": "STANLEY PARK NORTH - TORONTO",
+        "facility_type": "Park",
+        "amenities": [
+          "Basketball Court",
+          "Outdoor Ping Pong/Table Tennis",
+          "Playground",
+          "Washroom"
+        ],
+        "amenity_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4089348232241,
+          43.6419107696079
+        ]
+      },
+      "properties": {
+        "location_id": "2750",
+        "name": "STANLEY PARK SOUTH - TORONTO",
+        "facility_type": "Park",
+        "amenities": [
+          "Ball Diamond",
+          "Dog Off-Leash Area",
+          "Outdoor Ping Pong/Table Tennis",
+          "Pickleball Court",
+          "Tennis Court",
+          "Washroom"
+        ],
+        "amenity_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3674857945044,
+          43.6432584285317
+        ]
+      },
+      "properties": {
+        "location_id": "2261",
+        "name": "SUGAR BEACH PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4076858481386,
+          43.6358228733839
+        ]
+      },
+      "properties": {
+        "location_id": "2323",
+        "name": "THE GORE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839477666028,
+          43.6535090488192
+        ]
+      },
+      "properties": {
+        "location_id": "1054",
+        "name": "TORONTO CITY HALL",
+        "facility_type": "Civic Centre",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4094759535808,
+          43.6323354035042
+        ]
+      },
+      "properties": {
+        "location_id": "1430",
+        "name": "TORONTO INUKSHUK PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3942170960435,
+          43.6369633806304
+        ]
+      },
+      "properties": {
+        "location_id": "1707",
+        "name": "TORONTO MUSIC GARDEN",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3736612956797,
+          43.6498364266827
+        ]
+      },
+      "properties": {
+        "location_id": "173",
+        "name": "TORONTO SCULPTURE GARDEN",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3800555448424,
+          43.6397658677887
+        ]
+      },
+      "properties": {
+        "location_id": "2546",
+        "name": "TORONTO WATERFRONT PARK",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3818699449509,
+          43.6545159903913
+        ]
+      },
+      "properties": {
+        "location_id": "238",
+        "name": "TRINITY SQUARE",
+        "facility_type": "Park",
+        "amenities": [],
+        "amenity_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4002512425449,
+          43.6426758492767
+        ]
+      },
+      "properties": {
+        "location_id": "255",
+        "name": "VICTORIA MEMORIAL SQUARE PARK",
+        "facility_type": "Park",
+        "amenities": [
+          "Playground"
+        ],
+        "amenity_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3665559806847,
+          43.643038496576
+        ]
+      },
+      "properties": {
+        "location_id": "2547",
+        "name": "WATER'S EDGE PROMENADE",
+        "facility_type": "Park",
+        "amenities": [
+          "Beach"
+        ],
+        "amenity_count": 1
+      }
+    }
+  ]
+}
